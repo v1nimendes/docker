@@ -1,0 +1,40 @@
+nome: "Vinicius"
+idade: 24
+
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
+
+versao: 2
+versao_completa: 3.14
+
+string_sem_aspas: "Digite um texto aqui"
+texto: "Este tambem e um texto valido para o YAML"
+
+nulo: null
+nulo_dois: null
+
+verdadeiro: true
+verdadeiro_dois: true
+
+falso: false
+falso_dois: false
+
+lista: 
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+
+lista_dois:
+  - "teste"
+  - 10
+  - "outro teste"
+  - true
+
+obj:
+  a: 1
+  b: 2
+  objeto_interno:
+    x: 2
